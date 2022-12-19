@@ -1,5 +1,5 @@
 from tabulate import tabulate
-f=open('./dataset2.txt','r')
+f=open('./dataset_apriori.txt','r')
 d={}
 header=f.readline().split()
 l2=[]
