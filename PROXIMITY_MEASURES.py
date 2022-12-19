@@ -1,4 +1,4 @@
-f=open('./dataset1.txt','r')
+f=open('./test_input_proximity_measures.txt','r')
 data={}
 features=f.readline()
 for i in features.split():
